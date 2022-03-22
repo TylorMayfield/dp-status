@@ -4,19 +4,19 @@
     "url": "https://insurance.qa.polly.co/status",
     "icon": "https://favicons.githubusercontent.com/insurance.qa.polly.co",
     "slug": "fast-pass",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 164,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "status": "up",
+    "uptime": "98.01%",
+    "uptimeDay": "87.24%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
+    "time": 360,
+    "timeDay": 515,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2022-03-22": 0
+      "2022-03-22": 184
     }
   }
 ]
